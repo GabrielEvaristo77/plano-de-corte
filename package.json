@@ -1,0 +1,10 @@
+{
+  "name": "plano-de-corte",
+  "version": "1.0.0",
+  "description": "Otimizador de plano de corte de chapas",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  }
+}
